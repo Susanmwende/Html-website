@@ -1,0 +1,124 @@
+#cleaners{
+    display: flex;
+    flex: content;
+    
+}
+.clean{
+    width: 680px;
+    /* margin-left: 50%;
+    transform: translateX(-50%); */
+}
+
+
+
+#head{
+    display: flex;
+}
+#choose{
+    display: flex;
+}
+#pricing{
+    text-align: center;
+
+}
+.stander{
+    display: block;
+    display: flex;
+    flex-direction: row;
+}
+.butt{
+    background-color:#4A7BFE;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+h4{
+    color: crimson;
+}
+#container{
+    display: flex;
+    gap: 400px
+}
+#cleanersss{
+    display: flex;
+}
+#testimonials{
+    text-align: center;
+}
+.reds{
+    color: crimson;
+}
+.bolden{
+    font-size:x-large; 
+    font: weight 800%;
+}
+#container2{
+    display: flex;
+    gap: 300px;
+}
+#footer{
+    display: flex;
+    text-align: justify;
+    gap: 400px;
+}
+span{
+    color: #0D87E2;
+}
+.butt4{
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: #AEADAD;
+}
+.butt5{
+    padding: 10px 30px;
+    border-radius:20px;
+    background-color: #4A7BFE;
+    
+}
+.butt7{
+    padding: 10px 40px;
+    border-top-left-radius: 20px ;
+    border-bottom-left-radius: 20px;
+    background-color: #4A7BFE;
+    
+}
+.butt8{
+    padding: 10px 30px;
+}
+.butt9{
+    padding:10px 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.reeds{
+    color: crimson;
+    font-size:x-large; 
+    font: weight 800%;
+}
+#container4{
+    display: flex;
+}
+
+#container9{
+    display: flex;
+}
+#nav{
+    padding-block:0px;
+    gap: 30px;
+    display: flex;
+    padding-left: 900px;
+}
+.butt10{
+    height: 7vh ;
+    padding: 13px 15px;
+    border-radius: 20px;
+    background-color: #4A7BFE;
+}
+h5{
+    font-size: larger;
+}
+#image{
+    margin-top:0px;
+}
+@ media all and( max.width 500px){
+    body
+}
